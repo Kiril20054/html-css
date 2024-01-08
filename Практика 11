@@ -65,6 +65,10 @@
         <br> <br>
         <button>Submit</button>
     </form>
-
+    <style>
+        h1 {
+            color: blue;
+        }
+    </style>
 </body>
 </html>
