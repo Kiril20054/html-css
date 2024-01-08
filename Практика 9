@@ -22,7 +22,7 @@
     <h4>Hello, I`m amazing heading h4</h4>
     <h5>Hello, I`m amazing heading h5</h5>
     <h6>Hello, I`m amazing heading h6</h6>
-    <p>I love html</p>
+    <p>I love <sup>html</sup></p>
     <img src="./image/image.png" alt="Some nice picture with animals">
 </body>
 </html>
