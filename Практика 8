@@ -6,9 +6,15 @@
 <body>
 
     <ul>
-       <li>Розклад</li>
-       <li>Фільми</li>
-       <li>Контакти</li>
+       <li>
+        <a href="https://planetakino.ua/sumy/showtimes/#today">Розклад</a>
+       </li>
+       <li>
+        <a href="https://planetakino.ua/sumy/movies/">Фільми</a>
+       </li>
+       <li>
+        <a href="https://planetakino.ua/contacts/">Контакти</a>
+       </li>
     </ul>
     <h1>Hello, I`m amazing heading h1</h1>
     <h2>Hello, I`m amazing heading h2</h2>
